@@ -1,5 +1,4 @@
-# Tindroid: Tinode Android client.
-
+# 연락혀: 노인들을 위한 특별한 메신저
 Android instant messenger using [Tinode](https://github.com/tinode/chat/) backend. Beta-quality software.
 A [debug APK](https://storage.googleapis.com/tinode.co/tindroid.apk) is provided for convenience.
 
@@ -10,6 +9,10 @@ A [debug APK](https://storage.googleapis.com/tinode.co/tindroid.apk) is provided
 * For bugs and feature requests [open an issue](https://github.com/tinode/tindroid/issues/new).
 
 ## What works:
+
+* 음성 인식을 통한 메시지 작성
+* 받은 메시지를 음성으로 듣기
+* 위험 상황 시 흔들기를 통한 메시지 보내기
 
 * Send and receive messages one-on-one or in group chats.
 * Register new accounts.
@@ -31,9 +34,10 @@ A [debug APK](https://storage.googleapis.com/tinode.co/tindroid.apk) is provided
 
 ## Does not work yet:
 
-* No end-to-end encryption.
+* 사진을 찍어 친구 정보 등록하기
+* 스케줄 알림 기능
 
-## Dependencies on the SDK side (otherwise plain Java):
+## Database-
 
 * [jackson](https://github.com/FasterXML/jackson) for json serialization.
 * [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket/) for
@@ -55,11 +59,6 @@ details [here](https://github.com/tinode/chat).
 The `contacts.vcf` contains a list of contacts which can be used for testing. Push it to your emulator using
 
   `adb push contacts.vcf /sdcard/contacts.vcf`
-
-## Translations
-
-Pull requests with translations are welcome. See [Russian translation](app/src/main/res/values-ru/strings.xml) as an example.
-
 
 ## Screenshots
 <img src="android-contacts-1.png" alt="App screenshot - contacts" width="270" /> <img src="android-chat-1.png" alt="App screenshot - chat" width="270" /> <img src="android-topic-info-1.png" alt="App screenshot - chat settings" width="270" />
