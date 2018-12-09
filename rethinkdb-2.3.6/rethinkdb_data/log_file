@@ -1,0 +1,16 @@
+2018-12-03T18:15:58.152427700 0.062607s notice: In recursion: removing file 'C:\\rethinkdb-2.3.6\\rethinkdb_data\\tmp'
+2018-12-03T18:15:58.156525200 0.066328s warn: Trying to delete non-existent file 'C:\\rethinkdb-2.3.6\\rethinkdb_data\\tmp'
+2018-12-03T18:15:58.163398700 0.073133s notice: Initializing directory C:\\rethinkdb-2.3.6\\rethinkdb_data
+2018-12-03T18:15:58.168780700 0.078524s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory 'C:\\rethinkdb-2.3.6\\rethinkdb_data' did not already exist or is empty.)
+2018-12-03T18:15:58.168780701 0.078650s notice: Running rethinkdb 2.3.6-windows (MSC 190024215)...
+2018-12-03T18:15:58.169382200 0.078903s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2018-12-03T18:15:58.169382201 0.079213s notice: Loading data from directory C:\\rethinkdb-2.3.6\\rethinkdb_data
+2018-12-03T18:15:58.775800400 0.685504s info: Automatically using cache size of 772 MB
+2018-12-03T18:15:58.806680900 0.716305s notice: Listening for intracluster connections on port 29015
+2018-12-03T18:15:58.813661600 0.723689s notice: Listening for client driver connections on port 28015
+2018-12-03T18:15:58.814659600 0.724345s notice: Listening for administrative HTTP connections on port 8080
+2018-12-03T18:15:58.814659601 0.724352s notice: Listening on cluster address: 127.0.0.1
+2018-12-03T18:15:58.814659602 0.724359s notice: Listening on driver address: 127.0.0.1
+2018-12-03T18:15:58.814659603 0.724362s notice: Listening on http address: 127.0.0.1
+2018-12-03T18:15:58.814659604 0.724373s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-12-03T18:15:58.814659605 0.724382s notice: Server ready, "LAPTOP_5DJ2GB9H_2cx" 9cc07432-303e-430d-a943-f9162d24cc0f
