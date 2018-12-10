@@ -12,19 +12,16 @@
     android:paddingBottom="2dp">
 
     <LinearLayout
-        android:id="@+id/자음모음"
         android:layout_width="188dp"
         android:layout_height="578dp"
         android:orientation="vertical">
 
         <LinearLayout
-            android:id="@+id/연락처"
             android:layout_width="match_parent"
             android:layout_height="192dp"
             android:orientation="vertical">
 
             <RelativeLayout
-                android:id="@+id/프로필"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_marginEnd="5dp"
@@ -48,7 +45,6 @@
             </RelativeLayout>
 
             <LinearLayout
-                android:id="@+id/정보"
                 android:layout_width="match_parent"
                 android:layout_height="93dp"
                 android:orientation="vertical">
@@ -68,6 +64,7 @@
                         android:paddingRight="16sp"
                         android:textAppearance="@style/contactListTextPrimary"
                         android:textSize="30sp"
+                        android:textStyle="bold"
                         tools:ignore="RtlSymmetry"
                         tools:text="Contact title" />
 
@@ -104,13 +101,11 @@
         </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/한 연락처"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
             <RelativeLayout
-                android:id="@+id/프로필"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_marginEnd="5dp"
@@ -134,7 +129,6 @@
             </RelativeLayout>
 
             <LinearLayout
-                android:id="@+id/정보"
                 android:layout_width="match_parent"
                 android:layout_height="93dp"
                 android:orientation="vertical">
@@ -154,6 +148,7 @@
                         android:paddingRight="16sp"
                         android:textAppearance="@style/contactListTextPrimary"
                         android:textSize="30sp"
+                        android:textStyle="bold"
                         tools:ignore="RtlSymmetry"
                         tools:text="Contact title" />
 
@@ -192,13 +187,11 @@
     </LinearLayout>
 
     <LinearLayout
-        android:id="@+id/연락처"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
 
         <RelativeLayout
-            android:id="@+id/프로필"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginEnd="5dp"
@@ -222,7 +215,6 @@
         </RelativeLayout>
 
         <LinearLayout
-            android:id="@+id/정보"
             android:layout_width="match_parent"
             android:layout_height="93dp"
             android:orientation="vertical">
@@ -242,6 +234,7 @@
                     android:paddingRight="16sp"
                     android:textAppearance="@style/contactListTextPrimary"
                     android:textSize="30sp"
+                    android:textStyle="bold"
                     tools:ignore="RtlSymmetry"
                     tools:text="Contact title" />
 
@@ -276,13 +269,11 @@
         </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/한 연락처"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
             <RelativeLayout
-                android:id="@+id/프로필"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_marginEnd="5dp"
@@ -306,7 +297,6 @@
             </RelativeLayout>
 
             <LinearLayout
-                android:id="@+id/정보"
                 android:layout_width="match_parent"
                 android:layout_height="93dp"
                 android:orientation="vertical">
@@ -326,6 +316,7 @@
                         android:paddingRight="16sp"
                         android:textAppearance="@style/contactListTextPrimary"
                         android:textSize="30sp"
+                        android:textStyle="bold"
                         tools:ignore="RtlSymmetry"
                         tools:text="Contact title" />
 
