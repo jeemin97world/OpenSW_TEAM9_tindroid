@@ -17,6 +17,7 @@ A [debug APK](https://storage.googleapis.com/tinode.co/tindroid.apk) is provided
 * 1771014 김영주 : @RLADUDWN7237 / 중간발표, UI
 * 1771094 박유진 : @jinee525 / 기말발표, UI
 * 1771039 윤소연 : @ysy9893 / 기말발표 ,api
+* 1415030 박수민 : @sumin3251 / api(TTS, Shake detection)
 
 ## 앱 설치 방법 및 사용법 (with 스크린샷)
 
