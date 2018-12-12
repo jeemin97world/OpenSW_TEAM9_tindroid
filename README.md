@@ -13,8 +13,8 @@ A [debug APK](https://storage.googleapis.com/tinode.co/tindroid.apk) is provided
 
 ## 개발자 정보
 
+* 1615011 김지민 : @jeemin97world / 중간발표, 코드 
 * 
-*
 *
 *
 *
