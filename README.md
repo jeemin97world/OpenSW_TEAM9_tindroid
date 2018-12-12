@@ -3,7 +3,7 @@ Android instant messenger using [Tinode](https://github.com/tinode/chat/) backen
 A [debug APK](https://storage.googleapis.com/tinode.co/tindroid.apk) is provided for convenience.
 
 ## 앱설명
-*
+* 노인분들이 쉽게 어플의 기능들을 모두 활용하여 의사소통할 수 있도록 특성화된 메신저 어플이다. 
 
 ## 대표 기능
 
