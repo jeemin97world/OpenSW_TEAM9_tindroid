@@ -15,7 +15,7 @@ A [debug APK](https://storage.googleapis.com/tinode.co/tindroid.apk) is provided
 
 * 1615011 김지민 : @jeemin97world / 중간발표, 코드 
 * 
-*
+* 1771094 박유진 : @jinee525 / 기말발표, UI
 *
 *
 
